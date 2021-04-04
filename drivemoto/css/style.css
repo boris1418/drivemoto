@@ -903,7 +903,7 @@ body {
 }
 
 .catalog_filter-items button + button {
-    margin-left: 8px;
+    margin-left: 8.card_list-availablepx;
     cursor: pointer;
 }
 
@@ -1636,6 +1636,7 @@ button.catalog_filter-btnline {
 .card_list-available{
     width: 140px;
     margin-right: 60px;
+    text-align: center;
 }
 .card_list-num{
     width: 140px;
