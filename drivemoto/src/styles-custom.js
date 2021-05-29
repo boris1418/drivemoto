@@ -1,0 +1,9 @@
+require('./css/normalize.css');
+require('./css/slick.css');
+require('./css/fonts.css');
+require('./css/ion.rangeSlider.min.css');
+require('./css/jquery.formstyler.css');
+require('./css/jquery.formstyler.theme.css');
+require('./css/jquery.rateyo.min.css');
+//require('./css/style.css');
+//require('./css/media.css');
